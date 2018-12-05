@@ -1,0 +1,24 @@
+{
+  "name": "adventofcodpuzzles2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/froglander/adventofcodpuzzles2018.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/froglander/adventofcodpuzzles2018/issues"
+  },
+  "homepage": "https://github.com/froglander/adventofcodpuzzles2018#readme"
+}
